@@ -1,0 +1,7 @@
+rerun manual trajectory
+ &cntrl
+  imin=5, maxcyc=1,
+  ioutfm=0,
+  ntwx=1, ntpr=1, ntwr=100,
+  ntt=0, ntb=0, cut=99.0,
+ /
