@@ -1,0 +1,15 @@
+parameters for X/XX/XXX probe (atom_name/atom_type/res_name)
+MASS
+XX     1.0     0.000 
+
+BOND
+
+ANGLE
+
+DIHE
+
+IMPROPER
+
+NONBON
+  XX       1.0000    0.5000
+
